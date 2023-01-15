@@ -1,5 +1,7 @@
 {
   "name": "FrontBook",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
